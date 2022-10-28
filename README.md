@@ -16,5 +16,5 @@ Read [REST Docs](Representational_state_transfer)
 The code is licensed under the [MIT License](https://github.com/habibun/symfony-rest/blob/main/LICENSE)
 
 [hantsy]: https://github.com/habibun/symfony-rest/tree/hantsy
-[hantsy-post]: https://itnext.io/building-restful-apis-with-symfony-5-and-php-8-35368a6246ad
+[hantsy-post]: https://itnext.io/building-restful-apis-with-symfony-5-and-php-8-35368a6246ad - [source codes](https://github.com/hantsy/symfony-rest-sample)
 
