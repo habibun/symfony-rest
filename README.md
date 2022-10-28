@@ -9,7 +9,7 @@ Symfony Restful API implementation
 Read [REST Docs](Representational_state_transfer)
 
 ### Resources  
-- [`hantsy`][hantsy] - [Building Restful APIs with Symfony 5 and PHP 8][hantsy-post] - [source codes](https://github.com/hantsy/symfony-rest-sample)
+- [`hantsy`][hantsy] - [Building Restful APIs with Symfony 5 and PHP 8][hantsy-post] => [Hantsy Source Codes](https://github.com/hantsy/symfony-rest-sample)
 
 
 ### License
